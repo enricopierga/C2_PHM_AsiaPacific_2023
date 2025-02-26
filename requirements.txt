@@ -9,3 +9,5 @@ scipy
 xgboost
 fastdtw
 imbalanced-learn
+openpyxl
+nbformat
