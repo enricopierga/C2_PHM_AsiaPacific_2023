@@ -1,0 +1,10 @@
+Case,Predicted_Fault_Location,Expected_Fault_Location,Test condition,Match
+179,1,2.0,SV2 valve fault,False
+188,4,1.0,SV1 valve fault,False
+190,3,3.0,SV3 valve fault,True
+193,2,,BP1 bubble anomaly,False
+202,3,3.0,SV3 valve fault,True
+211,2,1.0,SV1 valve fault,False
+212,2,2.0,SV2 valve fault,True
+214,4,4.0,SV4 valve fault,True
+216,2,,BP1 bubble anomaly,False
