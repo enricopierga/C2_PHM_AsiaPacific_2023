@@ -1,0 +1,9 @@
+Case,Predicted_Anomaly_Location,Expected_Anomaly_Location,Test condition,Match
+178,2,2,BP2 bubble anomaly,True
+186,6,6,BP6 bubble anomaly,True
+196,4,4,BP4 bubble anomaly,True
+197,7,7,BP7 bubble anomaly,True
+204,3,3,BP3 bubble anomaly,True
+209,7,7,BP7 bubble anomaly,True
+219,5,5,BP5 bubble anomaly,True
+221,2,2,BP2 bubble anomaly,True
