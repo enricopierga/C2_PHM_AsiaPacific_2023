@@ -13,21 +13,6 @@ L'analisi si concentra su:
 La cartella principale del progetto contiene diversi file e cartelle organizzate come segue:
 
 - `dataset/` - Contiene i dati grezzi utilizzati per l'analisi.
-# C2_PHM_AsiaPacific_2023
-
-## Descrizione del Progetto
-Questo progetto è sviluppato per il corso di **Manutenzione Preventiva per la Robotica e l'Automazione**, con l'obiettivo di effettuare la diagnosi di anomalie in un sistema di propulsione spaziale. I dati utilizzati sono simulati e provengono dal dataset **PHM Asia Pacific 2023**, rilasciato dalla **JAXA**.
-
-L'analisi si concentra su:
-- **Feature Engineering**: Estrazione e selezione delle caratteristiche rilevanti.
-- **Data Exploration**: Analisi preliminare dei dati per comprendere la loro distribuzione e struttura.
-- **Anomaly Detection**: Identificazione di guasti e anomalie attraverso modelli di machine learning.
-- **Classificazione dei guasti**: Utilizzo di un approccio a cascata per selezionare il miglior classificatore.
-
-## Struttura del Progetto
-La cartella principale del progetto contiene diversi file e cartelle organizzate come segue:
-
-- `dataset/` - Contiene i dati grezzi utilizzati per l'analisi.
 - `phm_env/` - Ambiente di sviluppo specifico per il progetto.
 - `task1/`, `task2/`, `task3/`, `task4/` - Suddivisione del lavoro in task specifici per una gestione modulare.
   - `task3/`
