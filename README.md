@@ -1,7 +1,7 @@
 # C2_PHM_AsiaPacific_2023
 
 ## Descrizione del Progetto
-Questo progetto è sviluppato per il corso di **Manutenzione Preventiva per la Robotica e l'Automazione**, con l'obiettivo di effettuare la diagnosi di anomalie in un sistema di propulsione spaziale. I dati utilizzati sono simulati e provengono dal dataset **PHM Asia Pacific 2023**, rilasciato dalla **JAXA**.
+Questo progetto è sviluppato per il corso di **Manutenzione Preventiva per la Robotica e l'Automazione**, con l'obiettivo di effettuare la diagnosi di anomalie in un sistema di propulsione spaziale. I dati utilizzati sono simulati e provengono dal dataset **PHM Asia Pacific 2023**, rilasciato dalla **JAXA** (https://phmap.jp/program-data/).
 
 L'analisi si concentra su:
 - **Feature Engineering**: Estrazione e selezione delle caratteristiche rilevanti.
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 2. **Esegui l'analisi esplorativa** con `data_exploration.ipynb` per visualizzare le caratteristiche principali del dataset.
 3. **Feature Engineering**: Utilizza `feature_engineering.ipynb` per elaborare i dati e creare feature utili per la classificazione.
-4. **Anomaly Detection e Classificazione**: Implementa i notebook `task3.ipynb` e `task4.ipynb` per rilevare anomalie e classificare i guasti.
+4. **Anomaly Detection e Classificazione**: Implementa i notebook `task1.ipynb`, `task2.ipynb`, `task3.ipynb` e `task4.ipynb` per rilevare anomalie, risolvere l'anomaly detection dei guasti non noti e classificare i guasti noti. 
 
 ## Contributori
 - **Davide De Grazia** 
