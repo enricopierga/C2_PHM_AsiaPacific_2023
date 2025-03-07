@@ -16,17 +16,21 @@ La cartella principale del progetto contiene diversi file e cartelle organizzate
 - `phm_env/` - Ambiente di sviluppo specifico per il progetto.
 - `task1/`, `task2/`, `task3/`, `task4/` - Suddivisione del lavoro in task specifici per una gestione modulare.
   - `task3/`
+    - `anomaly_locations.pkl` - Modello contenente informazioni sui guasti causati dalla contaminazione da bolle d'aria.
     - `task3_idea.png` - Diagramma delle idee per il task 3.
     - `task3.ipynb` - Notebook Jupyter contenente l'implementazione del task 3.
   - `task4/`
-    - `fault_locations.pkl` - File contenente informazioni sui guasti rilevati.
+    - `fault_locations.pkl` - Modello contenente informazioni sui guasti causati dall'errata apertura delle elettrovalvole.
     - `task4_idea.png` - Schema delle idee per il task 4.
     - `task4.ipynb` - Notebook Jupyter con l'implementazione del task 4.
+  - `task5/`
+    - `task5_idea.png` - Schema delle idee per il task 5.
+    - `task5.ipynb` - Notebook Jupyter con l'implementazione del task 4.
 - `.gitignore` - File di configurazione per escludere file non necessari dal repository.
 - `data_exploration.ipynb` - Analisi preliminare e visualizzazione dei dati.
 - `feature_engineering.ipynb` - Estrazione e selezione delle caratteristiche principali per i modelli.
 - `import_dataset.ipynb` - Script per l'importazione e la gestione del dataset.
-- `Partenza_COLDS.drawio.pdf` - Diagramma del flusso di lavoro o schema tecnico.
+- `Progetto_C2_schema.pdf` - Diagramma del flusso di lavoro generale o schema tecnico.
 - `README.md` - Documento informativo sul progetto.
 - `requirements.txt` - Elenco delle librerie necessarie per eseguire il progetto.
 
