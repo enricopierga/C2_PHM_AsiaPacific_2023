@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ```
 
 ## Utilizzo
-1. **Preparazione dell'Ambiente**: Clona il repository e crea un ambiente virtuale.
+1. **Preparazione dell'Ambiente**: Clona il repository e crea un ambiente virtuale Python.
    ```bash
    git clone <repository-url>
    cd C2_PHM_AsiaPacific_2023
