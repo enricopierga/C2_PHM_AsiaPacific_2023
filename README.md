@@ -10,7 +10,7 @@ L'analisi si concentra su:
 - **Classificazione dei guasti** 🎯: Utilizzo di un approccio a cascata per selezionare il miglior classificatore.
 
 
-## Struttura del Progetto
+## 📁 Struttura del Progetto
 La cartella principale del progetto contiene diversi file e cartelle organizzate come segue:
 
 - `dataset/` - Contiene i dati grezzi utilizzati per l'analisi. 📊
@@ -36,13 +36,13 @@ La cartella principale del progetto contiene diversi file e cartelle organizzate
 - `requirements.txt` - Elenco delle librerie necessarie per eseguire il progetto. 📋
 
 
-## Requisiti 🔧
+##  🔧 Requisiti
 Per eseguire il progetto, assicurati di avere installate le seguenti dipendenze. Puoi installarle usando il comando:
 ```bash
 pip install -r requirements.txt
 ```
 
-## Utilizzo
+## 💻 Utilizzo
 1. **Preparazione dell'Ambiente**: Clona il repository e crea un ambiente virtuale Python.
    ```bash
    git clone <repository-url>
@@ -57,12 +57,12 @@ pip install -r requirements.txt
 3. **Feature Engineering**: utilizza `feature_engineering.ipynb` per elaborare i dati e creare feature utili per la classificazione.
 4. **Anomaly Detection e Classificazione**: utilizza i notebook `task1.ipynb`, `task2.ipynb`, `task3.ipynb` e `task4.ipynb` per rilevare anomalie, gestire l'anomaly detection dei guasti non noti e classificare i guasti noti. 
 
-## Contributori
+## 👨🏻‍💼 Contributori
 - **Davide De Grazia** 
 - **Mauro Giuliani**
 - **Enrico Piergallini**
 
-## Licenza
+## 📌 Licenza
 Questo progetto è distribuito sotto licenza MIT. Per maggiori dettagli, consulta il file LICENSE (se presente).
 
 
