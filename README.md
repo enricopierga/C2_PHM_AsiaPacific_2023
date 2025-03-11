@@ -31,6 +31,7 @@ La cartella principale del progetto contiene diversi file e cartelle organizzate
 - `data_exploration.ipynb` - Analisi preliminare e visualizzazione dei dati. 📉
 - `feature_engineering.ipynb` - Estrazione e selezione delle caratteristiche principali per i modelli. 🔧
 - `import_dataset.ipynb` - Script per l'importazione e la gestione del dataset. 📥
+- `overall_evaluation_metric.ipynb` - Notebook contenente il calcolo del punteggio finale rispetto alla Competizione. 📊
 - `Progetto_C2_schema.pdf` - Diagramma del flusso di lavoro generale o schema tecnico. 🗺️
 - `README.md` - Documento informativo sul progetto. 📘
 - `requirements.txt` - Elenco delle librerie necessarie per eseguire il progetto. 📋
