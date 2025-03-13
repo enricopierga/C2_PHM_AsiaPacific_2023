@@ -60,7 +60,7 @@ La cartella principale del progetto contiene diversi file e cartelle organizzate
 - **Enrico Piergallini**
 
 ## 📌 Licenza
-Questo progetto è distribuito sotto licenza MIT. Per maggiori dettagli, consulta il file LICENSE (se presente).
+Questo progetto è distribuito sotto licenza MIT. Per maggiori dettagli, consulta il file LICENSE.
 
 
 
