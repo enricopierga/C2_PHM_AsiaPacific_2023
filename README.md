@@ -33,6 +33,7 @@ La cartella principale del progetto contiene diversi file e cartelle organizzate
 - `feature_engineering.ipynb` - Estrazione e selezione delle caratteristiche principali per i modelli. 
 - `import_dataset.ipynb` - Script per l'importazione e la gestione del dataset. 
 - `overall_evaluation_metric.ipynb` - Notebook contenente il calcolo del punteggio finale rispetto alla Competizione. 
+- `C2_PHM_AsiaPacific2023_Relazione_tecnica.pdf` - Relazione tecnica finale.
 - `README.md` - Documento informativo sul progetto. 
 - `requirements.txt` - Elenco delle librerie necessarie per eseguire il progetto. 
 
